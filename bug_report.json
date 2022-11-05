@@ -1,1 +1,12 @@
-
+"navigator": {
+  "vendorSub": "",
+  "productSub": "20030107",
+  "vendor": "Google Inc.",
+  "appCodeName": "Mozilla",
+  "appName": "Netscape",
+  "appVersion": "5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36",
+  "platform": "MacIntel",
+  "product": "Gecko",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36",
+  "language": "en-US"
+}
